@@ -1,8 +1,10 @@
 main:
-- title: Home
+- title: About
   url: /
-- title: news
+- title: News
   url: /news/
+- title: Publication
+  url: /publications/
 - title: Teaching
   url: /teaching/
 - title: Personal
