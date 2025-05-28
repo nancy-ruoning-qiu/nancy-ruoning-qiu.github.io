@@ -55,8 +55,8 @@ layout: default
 {% else %}
   <div class="post">
     <header class="post-header">
-      <h1 class="post-title">
-        {{ page.title }}
+      <h1 class="post-title d-flex align-items-center">
+        <span>{{ page.title }}</span>
         {% if page.cv_pdf %}
           <a
             {% if page.cv_pdf contains '://' %}
@@ -66,7 +66,9 @@ layout: default
             {% endif %}
             target="_blank"
             rel="noopener noreferrer"
-            class="float-right"
+            class="ml-3 text-muted"
+            style="font-size: 0.9em;"
+            title="Download CV (PDF)"
           >
             <i class="fa-solid fa-file-pdf"></i>
           </a>
@@ -77,6 +79,7 @@ layout: default
       {% endif %}
     </header>
 
+{% comment %}
     <article>
       <div class="cv">
         {% for data in site.data.resume %}
@@ -124,4 +127,5 @@ layout: default
       </div>
     </article>
   </div>
+  {% endcomment %}
 {% endunless %}

@@ -2,96 +2,185 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: "Nancy (Ruo Ning) Qiu"
+    - name: Emails
+      value: "nqiu5796@sdsu.edu, r1qiu@ucsd.edu"
     - name: Languages
-      value: English, German
+      value: "English, Mandarin"
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: "Ph.D. Student in Mathematics and Science Education"
+      institution: "San Diego State University (SDSU) & UC San Diego (UCSD)"
+      year: "2023–Present"
+    - title: "Master of Science in Mathematics"
+      institution: "University of British Columbia (UBC)"
+      year: "2021–2023"
+    - title: "Honours Bachelor of Science with High Distinction"
+      institution: "University of Toronto (UofT)"
+      year: "2017–2021"
 
-- title: Experience
+- title: Publications
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: "Exploring students’ understanding of a limit of a sequence"
+      institution: "Proceedings of the 27th RUME Conference"
+      year: "expected 2025"
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - "Interviewed using ε-strip activity with RME and DMA framework."
+    - title: "The impact of an upper division inquiry-oriented content course on prospective teachers"
+      institution: "Proceedings of the 27th RUME Conference"
+      year: "expected 2025"
       description:
-        - Description 1.
-        - Description 2.
+        - "Co-authored with Rasmussen, Carney, & Fortune."
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Manuscripts In Progress
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: "Self-reflective crowds: Surfacing wisdom through emergent scaffolding"
+      institution: "Proceedings of ACM Collective Intelligence (CI '25)"
+      year: "accepted, 2025"
+    - title: "Bridging tertiary and secondary mathematics"
+      institution: "MTED Special Issue"
+      year: "proposal accepted"
+    - title: "The impact of an upper division content course"
+      institution: "In preparation"
+      year: "2025"
+    - title: "Analyzing frequentist inverse problems"
+      institution: "In preparation"
+      year: "2025"
 
-- title: Honors and Awards
+- title: Research Experience
   type: time_table
   contents:
-    - year: 1921
+    - title: "Graduate Research Assistant – Inquiry-Oriented Dynamical Systems and Modeling"
+      institution: "SDSU (NSF#2337047)"
+      year: "Aug 2024 – Present"
+    - title: "ProtoLab Member – Emergent Scaffolding Project"
+      institution: "UC San Diego"
+      year: "Feb 2024 – Present"
+    - title: "Researcher – TA Beliefs About Teaching and Learning"
+      institution: "UC San Diego, CSE"
+      year: "Fall 2024"
+    - title: "Graduate Research Assistant – Chemistry Instrument Review"
+      institution: "SDSU (NSF#1914996)"
+      year: "Aug 2023 – 2024"
+    - title: "Research Rotation – Equity Analytics Plan"
+      institution: "UC San Diego"
+      year: "Spring 2024"
+    - title: "Independent Study – Impact of Definitions on Writing"
+      institution: "UofT"
+      year: "Sept 2020 – Oct 2022"
+    - title: "Undergraduate Research Assistant – Glucose Level Analysis"
+      institution: "Fields Institute, UofT"
+      year: "Summer 2020"
+    - title: "Undergraduate Research Assistant – Calculus Conceptual Knowledge"
+      institution: "UofT"
+      year: "Summer 2019"
+
+- title: Conference Talks
+  type: time_table
+  contents:
+    - title: "Patterns in the development and use of education instruments"
+      institution: "ACS National Meeting, San Diego"
+      year: "Mar 2025"
+    - title: "Embracing a critical stance in an inquiry-oriented course"
+      institution: "RUME Conference"
+      year: "Feb 2025"
+    - title: "The impact of a redesigned differential equations course"
+      institution: "AMS Western Sectional, UC Riverside"
+      year: "Oct 2024"
+    - title: "Instrument development and use (2010–2014)"
+      institution: "BCCE, University of Kentucky"
+      year: "Jul 2024"
+
+- title: Posters
+  type: time_table
+  contents:
+    - title: "Understanding limits using ε-strip activity"
+      institution: "RUME 2025, Alexandria, VA"
+      year: "Feb 2025"
+    - title: "Comparing instruments in chem/math ed (coding scheme)"
+      institution: "UC STEM T³PN, UC Irvine"
+      year: "Jun 2024"
+
+- title: Workshops
+  type: time_table
+  contents:
+    - title: "PEER-SoCal"
+      institution: "University of San Diego"
+      year: "Jul 2024"
+    - title: "Critical Issues in Mathematics Education"
+      institution: "UC Berkeley"
+      year: "Apr 2024"
+
+- title: Academic Services
+  type: time_table
+  contents:
+    - title: "Manuscript Reviewer"
+      institution: "RUME 2025, CI 2025"
+      year: "2024–Present"
+    - title: "Graduate Student Committee Member"
+      institution: "UBC IAM"
+      year: "2023"
+
+- title: Awards and Honors
+  type: time_table
+  contents:
+    - year: "2024–25"
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - "SDSU University Graduate Fellowship"
+    - year: "2023"
       items:
-        - Max Planck Medal
+        - "SDSU Presidential Graduate Research Fellowship"
+    - year: "2021–22"
+      items:
+        - "UBC Faculty of Science Graduate Award"
+    - year: "2018–21"
+      items:
+        - "UofT Dean’s List Scholar"
+    - year: "2017"
+      items:
+        - "University of Toronto Scholar"
 
-- title: Academic Interests
+- title: Professional and Teaching Experience
+  type: time_table
+  contents:
+    - title: "VERSA Pod Mentor, REU Program"
+      institution: "UC San Diego"
+      year: "Summer 2024"
+    - title: "Small Class Instructor"
+      institution: "UBC Mathematics"
+      year: "Winter 2023"
+    - title: "Graduate Teaching Assistant"
+      institution: "UBC Mathematics"
+      year: "2021–2023"
+      description:
+        - "MATH200, MATH444, MATH105, MATH405"
+    - title: "Curriculum Assistant"
+      institution: "UBC Science"
+      year: "Summer 2022"
+    - title: "Teaching Assistant"
+      institution: "UofT Mathematics"
+      year: "2018–2021"
+    - title: "Observation TA"
+      institution: "UofT"
+      year: "2019–2021"
+    - title: "Remote Course Community Advisor"
+      institution: "UofT Work Study"
+      year: "Summer 2020"
+
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: "Certificates"
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - "CIRTL Associate (Math Instructional Skills Workshop, Summer Teaching Institute at UBC)"
+    - title: "Technical"
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - "Qualtrics, Python, Java, Julia, R, MATLAB, SQL, LaTeX"
+    - title: "Languages"
+      items:
+        - "Mandarin"
+        - "English"
