@@ -1,12 +1,29 @@
 ---
-layout: cv
+layout: default
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 6
 cv_pdf: CV_Qiu_May_2025.pdf # you can also use external links here
 description: My academic CV (updated on May 2025).
-toc:
-  sidebar: left
+# toc:
+#   sidebar: left
 ---
-<!-- 📄 [Download my CV)](/assets/pdf/cv.pdf) -->
+
+<h1 style="text-align: center; font-weight: 500; font-size: 1rem; margin-bottom: 0.2em;">
+  My academic CV (updated on May 2025)
+</h1>
+
+<p style="text-align: center; font-size: 1.05em;">
+  <a href="{{ page.cv_pdf | prepend: '/assets/pdf/' | relative_url }}" target="_blank"> :inbox_tray: Download PDF </a>
+</p>
+
+<p style="text-align: center;">
+<iframe 
+  id="cvframe"
+  src="/assets/pdf/CV_Qiu_May_2025.pdf"
+  width="88%" 
+  height="600px" 
+  style="border: none; margin-top: 1rem;"
+></iframe>
+</p>
