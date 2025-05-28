@@ -20,7 +20,7 @@ My teaching is informed by a belief that mathematical thinking is not reserved f
 
 ### :seedling: Broader Goal
 
-Ultimately, I want students to build a relationship with mathematics that is empowering and meaningful, whether they pursue it professionally as mathematicians or not. I want to support students in pursuing their aspirations, and mathematics is one of many tools they might find useful along the way. 
+Ultimately, I want students to build a relationship with mathematics that is empowering and meaningful, regardless of whether they pursue it professionally as mathematicians. I want to support students in following their aspirations, and mathematics is one of many tools they might find useful along the way. 
 
 University is a space for exploration, but institutional constraints like large class sizes and rigid program structures can limit how much one can support each individual student. Even so, I find deep joy in teaching: in witnessing the moments when a small classroom activity or a rich peer discussion sparks a student’s interest in mathematics. These moments mirror how I first fell in love with the subject, and they continue to inspire my commitment to teaching.
 
