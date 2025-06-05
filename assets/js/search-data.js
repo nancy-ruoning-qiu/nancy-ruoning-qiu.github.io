@@ -57,7 +57,7 @@ ninja.data = [{
           title: ':books: :tornado: Started the joint doctoral program in Mathematics and Science Education at...',
           description: "",
           section: "News",},{id: "news-airplane-attending-the-43rd-annual-conference-on-the-first-year-experience-in-seattle-and-presenting-a-facilitated-dialogue-session-on-cohort-based-program-and-seminar-course-for-first-year-science-students",
-          title: ':airplane: Attending the 43rd Annual Conference on The First-Year Experience in Seattle and...',
+          title: ':airplane: Attending the 43rd Annual Conference on the First-Year Experience in Seattle and...',
           description: "",
           section: "News",},{id: "news-hammer-and-wrench-attending-critical-issues-in-mathematics-education-2024-workshop-in-uc-berkeley-on-bringing-innovation-to-scale-teaching-focused-faculty-as-change-agents",
           title: ':hammer_and_wrench: Attending Critical Issues in Mathematics Education 2024 workshop in UC Berkeley on...',
