@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-:airplane: Attending the [43rd Annual Conference on The First-Year Experience](https://sc.edu/nrc/system/pub_files/1711566583_0.pdf) in Seattle and presenting a facilitated dialogue session on **Cohort-Based Program and Seminar Course for First-Year Science Students**.
+:airplane: Attending the [43rd Annual Conference on the First-Year Experience](https://sc.edu/nrc/system/pub_files/1711566583_0.pdf) in Seattle and presenting a facilitated dialogue session on **Cohort-Based Program and Seminar Course for First-Year Science Students**.
 
