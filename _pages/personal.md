@@ -89,6 +89,14 @@ Some moments I captured (via Fujifilm X-M5):
 <div id="gallery" style="margin: 2em 0;">
 
   <p style="text-align: center;">
+    <a href="/assets/img/personal/DSCF0686.jpg" data-pswp-width="2048" data-pswp-height="1365">
+      <img src="/assets/img/personal/DSCF0686.jpg"
+           alt="DSCF0686"
+           style="width: 80%; max-width: 900px; display: inline-block; border-radius: 0; box-shadow: none;">
+    </a>
+  </p>
+
+  <p style="text-align: center;">
     <a href="/assets/img/personal/DSCF0172.jpg" data-pswp-width="2048" data-pswp-height="1365">
       <img src="/assets/img/personal/DSCF0172.jpg"
            alt="DSCF0172"
