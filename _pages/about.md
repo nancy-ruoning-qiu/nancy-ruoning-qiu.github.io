@@ -32,7 +32,7 @@ Hi! I am <span style="color: #008B8B;">Nancy (Ruo Ning) Qiu</span>, a Ph.D. stud
 
 Currently, I am a graduate research assistant @SDSU on an [NSF-funded project](https://crmse.sdsu.edu/directory/projects/making-math-more-relevant) that explores how an upper-division mathematics course (Inquiry-Oriented Dynamical Systems and Modeling) can better support future secondary school teachers, under the supervision of Dr. [Chris Rasmussen](https://crmse.sdsu.edu/directory/rasmussen-chris), Dr. [Nick Fortune](https://www.wku.edu/math/facultystaff/nicholas_fortune), and Dr. [Debra Carney](https://ams.mines.edu/project/carney-debra/). 
 I also work with Dr. [Steven Dow](https://spdow.ucsd.edu/) at [ProtoLab](https://protolab.ucsd.edu/) @UCSD, where we explore crowdsourcing workflows to support collective intelligence. 
-Previously, I was a graduate research assistant for the [CHIRAL](https://komperda-cer.sdsu.edu/current-projects/#CHIRAL) project @SDSU, working with Dr. [Regis Komperda](https://www.chemistry.sdsu.edu/faculty/index.php?name=Komperda).
+Previously, I was a graduate research assistant for the [The CHemistry Instrument Review and Assessment Library (CHIRAL)](https://komperda-cer.sdsu.edu/current-projects/#CHIRAL) project @SDSU, working with Dr. [Regis Komperda](https://www.chemistry.sdsu.edu/faculty/index.php?name=Komperda).
 
 I received an Honours B.Sc. in Mathematics and its Application in Teaching, Statistics, and Computer Science from the [University of Toronto](https://www.utoronto.ca/), and completed an M.Sc. in Applied Mathematics at the [University of British Columbia](https://www.ubc.ca/).
 
