@@ -58,7 +58,7 @@ Nancy, would be monotone increasing because
 Nancy, keeps her learners achieving.
 
 She’s organized and sweet, has origami art
-And always makes sure her learned are a part of cycle of Kolb, and I don’t mean Colby like the cheese
+And always makes sure her learners are a part of cycle of Kolb, and I don’t mean Colby like the cheese
 
 Because Nancy is a teacher who will help you achieve your mathematical dreams
 
