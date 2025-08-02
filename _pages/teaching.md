@@ -4,9 +4,22 @@ permalink: /teaching/
 title: Teaching
 nav: true
 nav_order: 4
+toc: true
+toc_items:
+  - title: ":bulb: My Teaching Philosophy"
+    url: "#bulb-my-teaching-philosophy"
+  - title: ":hammer_and_wrench: TA Training & PD"
+    url: "#hammer_and_wrench-ta-training--professional-development"
+  - title: ":art: Designing a First-Year Program"
+    url: "#art-designing-a-first-year-cohort-based-program"
+  - title: ":woman_teacher: Teaching Experience"
+    url: "#woman_teacher-teaching-experience"
+  - title: ":memo: Student Evaluations"
+    url: "#memo-student-evaluations--math-101-winter-2023"
 ---
 
-### :bulb: My Teaching Philosophy
+
+## :bulb: My Teaching Philosophy
 
 I believe that mathematics is best learned by doing, not by passively copying notes or memorizing procedures. My teaching is grounded in inquiry-based, student-centered learning that prompts students to engage in mathematical thinking, collaborate with peers, and make sense of ideas collectively.
 
@@ -25,7 +38,56 @@ Ultimately, I want students to build a relationship with mathematics that is emp
 University is a space for exploration, but institutional constraints like large class sizes and rigid program structures can limit how much one can support each individual student. Even so, I find deep joy in teaching: in witnessing the moments when a small classroom activity or a rich peer discussion sparks a student’s interest in mathematics. These moments mirror how I first fell in love with the subject, and they continue to inspire my commitment to teaching.
 
 ---
-### 👩🏻‍🏫 Teaching Experience
+## :hammer_and_wrench: TA Training & Professional Development
+
+My involvement in supporting TA training began as an observation TA at the University of Toronto, where I provided formative feedback to new TAs by observing their discussion sections and helping them develop reflective teaching practices aligned with their goals.
+
+At UBC, I continued this commitment by facilitating informal teaching lunches in the Mathematics Department, and by helping lead training workshops for new TAs teaching SCIE courses in the Faculty of Science.
+
+To further develop my pedagogical skills, I completed a Mathematics Teaching Techniques course at the Mathematics Department, where I received personalized feedback on lesson planning and delivered a guest lecture, in perparation to teach undergradaute mathematics. I also participated in the Mathematics Instructional Skills Workshop (ISW) and the CIRTL Summer Teaching Institute’s Scholarship of Teaching and Learning Workshop, earning a <a href="https://cirtl.ubc.ca/get-involved/cirtl-associate/" target="_blank">CIRTL Associate</a> certificate. 
+
+As part of a reflection activity in the ISW workshop, two fellow participants composed the following creative slant poem, in response to my mini-leasson teaching, a piece I found both touching and heartwarming:
+<blockquote style ="font-size: 0.95em;">
+  <p><strong>The Feedback Poem</strong><br>
+  <em>By Caleb and Jack</em></p>
+
+  <pre style="white-space: pre-wrap;">
+Nancy, a teacher of math
+Nancy, if she were a graph, then
+Nancy, would be monotone increasing because
+Nancy, keeps her learners achieving.
+
+She’s organized and sweet, has origami art
+And always makes sure her learned are a part of cycle of Kolb, and I don’t mean Colby like the cheese
+
+Because Nancy is a teacher who will help you achieve your mathematical dreams
+
+Her learners come first, and her care is key
+Just like a fractal, her growth will be
+Going on and on from day 1 to infinity
+
+Nancy, peach out *mic drop*</pre>
+</blockquote>
+
+## :art: Designing a First-Year Cohort-Based Program
+In parallel, I contributed to curriculum development for the <a href="https://fyf.science.ubc.ca/" target="_blank">First Year Focus</a> program in the summer of 2022. As a graduate curriculum assistant, I helped design a cohort-based seminar course supporting first-year students’ transition to university. The course emphasized metacognitive skills, a sense of belonging, and exploration of disciplinary identity. In the following semester, I served as the graduate teaching assistant for the course. I led a team of six undergraduate TAs in facilitating tutorials and provided ongoing professional development. Below is a photo of the TA team at the end-of-semester portfolio day, where FYF students creatively showcased their academic and personal learning trajectories throughout the program.
+
+  <p style="text-align: center;">
+    <a href="/assets/img/teaching/FYF 2022.jpg" data-pswp-width="2048" data-pswp-height="1365">
+      <img src="/assets/img/teaching/FYF 2022.jpg"
+           alt="FYF 2022"
+           style="width: 80%; max-width: 900px; display: inline-block; border-radius: 0; box-shadow: none;">
+    </a>
+  </p>
+
+---
+## :woman_teacher: Teaching Experience
+
+**Teaching Methods in Computer Science**  
+*Fall 2024*, CSE 599, UCSD  
+Mentor TA
+
+---
 
 **Integral Calculus with Applications**  
 *Winter 2023*, MATH 101, UBC  
@@ -69,8 +131,10 @@ Undergraduate Teaching Assistant
 
 ---
 
-### :memo: Student Evaluations – MATH 101 (Winter 2023)
+## :memo: Student Evaluations – MATH 101 (Winter 2023)
 Each quote below comes from the open-ended section of anonymous course evaluation in response to the prompt: *“Please comment on what your instructor did well to support your learning.”*
+
+---
 
 #### :large_blue_diamond: A15 Session
 
