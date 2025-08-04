@@ -28,13 +28,13 @@ latest_posts:
   limit: # leave blank to include all the blog posts
 ---
 
-Hi! I am <span style="color: #008B8B;">Nancy (Ruo Ning) Qiu</span>, a Ph.D. student in Mathematics and Science Education ([MSED](https://sci.sdsu.edu/crmse/msed/home.html)) at San Diego State University ([SDSU](https://www.sdsu.edu/)) and UC San Diego ([UCSD](https://ucsd.edu/)). My research interest spans inquiry-based mathematics education, mathematical modeling, and design-based research, with a focus on student-centered practices supported by data analytics.
+Hi! I am <span style="color: #008B8B;">Nancy (Ruo Ning) Qiu</span>, a Ph.D. student in Mathematics and Science Education ([MSED](https://sci.sdsu.edu/crmse/msed/home.html)) at San Diego State University ([SDSU](https://www.sdsu.edu/)) and UC San Diego ([UCSD](https://ucsd.edu/)). My research interests span undergraduate mathematics education, inquiry-based learning, and design-based research, with a focus on student-centered teaching practices supported by data analytics. My mathematical research has focused on mathematical modeling and numerical analysis.
 
 Currently, I am a graduate research assistant @SDSU on an [NSF-funded project](https://crmse.sdsu.edu/directory/projects/making-math-more-relevant) that explores how an upper-division mathematics course (Inquiry-Oriented Dynamical Systems and Modeling) can better support future secondary school teachers, under the supervision of Dr. [Chris Rasmussen](https://crmse.sdsu.edu/directory/rasmussen-chris), Dr. [Nick Fortune](https://www.wku.edu/math/facultystaff/nicholas_fortune), and Dr. [Debra Carney](https://ams.mines.edu/project/carney-debra/). 
-I also work with Dr. [Steven Dow](https://spdow.ucsd.edu/) at [ProtoLab](https://protolab.ucsd.edu/) @UCSD, where we explore crowdsourcing workflows to support collective intelligence. 
-Previously, I was a graduate research assistant for the [The CHemistry Instrument Review and Assessment Library (CHIRAL)](https://komperda-cer.sdsu.edu/current-projects/#CHIRAL) project @SDSU, working with Dr. [Regis Komperda](https://www.chemistry.sdsu.edu/faculty/index.php?name=Komperda).
+I also work with Dr. [Steven Dow](https://spdow.ucsd.edu/) at the [ProtoLab](https://protolab.ucsd.edu/) @UCSD, where we explore crowdsourcing workflows to support collective intelligence and its applications in learning. 
+Previously, I was a graduate research assistant for the [CHemistry Instrument Review and Assessment Library (CHIRAL)](https://komperda-cer.sdsu.edu/current-projects/#CHIRAL) project @SDSU, working with Dr. [Regis Komperda](https://www.chemistry.sdsu.edu/faculty/index.php?name=Komperda).
 
-I received an Honours B.Sc. in Mathematics and its Application in Teaching, Statistics, and Computer Science from the [University of Toronto](https://www.utoronto.ca/), and completed an M.Sc. in Applied Mathematics at the [University of British Columbia](https://www.ubc.ca/).
+I received an Honours B.Sc. in Mathematics and its Application in Teaching, Statistics, and Computer Science from the [University of Toronto](https://www.utoronto.ca/), and completed an M.Sc. in Applied Mathematics from the [University of British Columbia](https://www.ubc.ca/).
 
 Outside of research, I enjoy journaling and folding origami.
 
