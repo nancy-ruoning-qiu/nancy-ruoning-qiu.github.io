@@ -42,11 +42,11 @@ University is a space for exploration, but institutional constraints like large 
 
 My involvement in supporting TA training began as an observation TA at the University of Toronto, where I provided formative feedback to new TAs by observing their discussion sections and helping them develop reflective teaching practices aligned with their goals.
 
-At UBC, I continued this commitment by facilitating informal teaching lunches in the Mathematics Department, and by helping lead training workshops for new TAs teaching SCIE courses in the Faculty of Science.
+At UBC, I continued this commitment by facilitating informal teaching lunches in the Mathematics Department, and by helping lead training workshops for new TAs of SCIE courses in the Faculty of Science.
 
-To further develop my pedagogical skills, I completed a Mathematics Teaching Techniques course at the Mathematics Department, where I received personalized feedback on lesson planning and delivered a guest lecture, in perparation to teach undergradaute mathematics. I also participated in the Mathematics Instructional Skills Workshop (ISW) and the CIRTL Summer Teaching Institute’s Scholarship of Teaching and Learning Workshop, earning a <a href="https://cirtl.ubc.ca/get-involved/cirtl-associate/" target="_blank">CIRTL Associate</a> certificate. 
+To further develop my pedagogical skills, I completed a Mathematics Teaching Techniques course at the Mathematics Department, where I received personalized feedback on lesson planning and delivered a guest lecture, in preparation to teach undergraduate mathematics. I also participated in the Mathematics Instructional Skills Workshop (ISW) and the CIRTL Summer Teaching Institute’s Scholarship of Teaching and Learning Workshop, earning a <a href="https://cirtl.ubc.ca/get-involved/cirtl-associate/" target="_blank">CIRTL Associate</a> certificate. 
 
-As part of a reflection activity in the ISW workshop, two fellow participants composed the following creative slant poem, in response to my mini-leasson teaching, a piece I found both touching and heartwarming:
+As part of a reflection activity in the ISW workshop, two fellow participants composed the following creative slant poem, in response to my mini-lesson teaching, a piece I found both touching and heartwarming:
 <blockquote style ="font-size: 0.95em;">
   <p><strong>The Feedback Poem</strong><br>
   <em>By Caleb and Jack</em></p>
