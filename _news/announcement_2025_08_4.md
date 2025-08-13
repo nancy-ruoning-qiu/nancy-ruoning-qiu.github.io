@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:oncoming_automobile: Attending [CI'25](https://ci.acm.org/2025/) in San Diego (UCSD) to present our work on [**S Emergent Scaffolding**](https://dl.acm.org/doi/10.1145/3715928.3737478)!
+:oncoming_automobile: Attending [CI'25](https://ci.acm.org/2025/) in San Diego (UCSD) to present our work on [Emergent Scaffolding](https://dl.acm.org/doi/10.1145/3715928.3737478)!
