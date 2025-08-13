@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-05-15 18:22:00 -0700
+date: 2025-08-04 09:00:00 -0700
 inline: true
 related_posts: false
 ---
 
-:tada::page_facing_up: Our paper, **Self-Reflective Crowds: Surfacing Wisdom Through Emergent Scaffoding** is accpeted to [CI'25](https://ci.acm.org/2025/)! More details to come...
+:oncoming_automobile: Attending [CI'25](https://ci.acm.org/2025/) in San Diego (UCSD) to present our work on [**S Emergent Scaffolding**](https://dl.acm.org/doi/10.1145/3715928.3737478)!
