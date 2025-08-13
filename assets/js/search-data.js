@@ -89,8 +89,8 @@ ninja.data = [{
           section: "News",},{id: "news-tada-page-facing-up-our-paper-self-reflective-crowds-surfacing-wisdom-through-emergent-scaffolding-is-accepted-to-ci-25",
           title: ':tada::page_facing_up: Our paper, Self-Reflective Crowds: Surfacing Wisdom Through Emergent Scaffolding is accepted to...',
           description: "",
-          section: "News",},{id: "news-oncoming-automobile-attending-ci-25-in-san-diego-ucsd-to-present-our-work-on-s-emergent-scaffolding",
-          title: ':oncoming_automobile: Attending CI’25 in San Diego (UCSD) to present our work on S...',
+          section: "News",},{id: "news-oncoming-automobile-attending-ci-25-in-san-diego-ucsd-to-present-our-work-on-emergent-scaffolding",
+          title: ':oncoming_automobile: Attending CI’25 in San Diego (UCSD) to present our work on Emergent...',
           description: "",
           section: "News",},{
         id: 'social-email',
