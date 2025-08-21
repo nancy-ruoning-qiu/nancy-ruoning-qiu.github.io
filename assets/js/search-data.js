@@ -100,6 +100,13 @@ ninja.data = [{
           window.open("mailto:%72%31%71%69%75@%75%63%73%64.%65%64%75", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/nancy-ruoning-qiu", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
