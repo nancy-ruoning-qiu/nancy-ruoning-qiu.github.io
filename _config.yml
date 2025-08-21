@@ -213,17 +213,30 @@ plugins:
 # Sitemap settings
 defaults:
   - scope:
+      path: ""   # <-- empty path = entire site
+    values:
+      sitemap: true
+
+  - scope:
       path: "assets"
     values:
       sitemap: false
-      - scope:
-  - path: "_projects"
+
+  - scope:
+      path: "_pages/dropdown"
     values:
       sitemap: false
+
+  - scope:
+     path: "_projects"
+    values:
+      sitemap: false
+
   - scope:
       path: "projects"
     values:
       sitemap: false
+
   - scope:
       path: "archive"
     values:
