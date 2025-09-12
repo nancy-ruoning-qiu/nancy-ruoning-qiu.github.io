@@ -4,14 +4,14 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 6
-cv_pdf: CV_Qiu_Aug_20_2025.pdf # you can also use external links here
+cv_pdf: CV_Qiu_Sept_2025.pdf # you can also use external links here
 description: My academic CV (updated on Aug 2025).
 # toc:
 #   sidebar: left
 ---
 
 <h1 style="text-align: center; font-weight: 500; font-size: 1rem; margin-bottom: 0.2em;">
-  My academic CV (updated on Aug 2025)
+  My academic CV (updated on Sept 2025)
 </h1>
 
 <p style="text-align: center; font-size: 1.05em;">
