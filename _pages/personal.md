@@ -96,8 +96,6 @@ Some moments I captured (via Fujifilm X-M5):
     </a>
   </p>
 
-<div id="gallery" style="margin: 2em 0;">
-
   <p style="text-align: center;">
     <a href="/assets/img/personal/DSCF0686.jpg" data-pswp-width="2048" data-pswp-height="1365">
       <img src="/assets/img/personal/DSCF0686.jpg"
