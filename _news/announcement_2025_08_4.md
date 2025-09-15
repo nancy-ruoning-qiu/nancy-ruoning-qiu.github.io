@@ -6,3 +6,8 @@ related_posts: false
 ---
 
 :oncoming_automobile: Attending [CI'25](https://ci.acm.org/2025/) in San Diego (UCSD) to present our work on [Emergent Scaffolding](https://dl.acm.org/doi/10.1145/3715928.3737478)!
+
+<figure class="news-figure">
+  <img src="/assets/img/news/ACM-CI-Nancy's talk-2025-08-08.jpg" alt="Nancy's CI 25 talk">
+  <figcaption>Photo credit: Nathaniel Abuan</figcaption>
+</figure>
