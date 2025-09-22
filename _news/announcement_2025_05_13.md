@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada::page_facing_up: Our *illustration of practice* paper proposal, **Bridging Tertiary and Secondary Mathematics: Promoting a Critical Stance in an Inquiry-Oriented Dynamical Systems and Modeling Course**, is accepted to a Special Issue of the [Mathematics Teacher Education and Development](https://mted.merga.net.au/index.php/mted/about) Journal focused on Mathematics Teacher Educators: Theories, Methodologies and Teaching Practices.
+:tada: :page_facing_up: Our paper proposal is accepted! Masked the details as it is under review.
