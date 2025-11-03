@@ -92,6 +92,12 @@ ninja.data = [{
           section: "News",},{id: "news-oncoming-automobile-attending-ci-25-in-san-diego-ucsd-to-present-our-work-on-emergent-scaffolding-photo-credit-nathaniel-abuan",
           title: ':oncoming_automobile: Attending CI’25 in San Diego (UCSD) to present our work on Emergent...',
           description: "",
+          section: "News",},{id: "news-tada-page-facing-up-my-paper-exploring-the-relationship-between-group-roles-and-participation-patterns-in-an-inquiry-based-mathematics-course-is-accepted-to-rume-2026-our-paper-on-making-upper-division-math-courses-more-relevant-for-prospective-teachers-is-also-accepted",
+          title: ':tada::page_facing_up: My paper, Exploring the relationship between group roles and participation patterns in...',
+          description: "",
+          section: "News",},{id: "news-tada-page-facing-up-our-extended-abstract-prospective-secondary-mathematics-teachers-collective-productive-struggle-inquiry-oriented-dynamical-systems-and-modeling-as-a-case-example-is-accepted-for-the-special-issue-of-investigations-in-mathematics-learning-on-defining-cultivating-and-sustaining-productive-struggle-in-mathematics-classrooms-full-manuscript-in-preparation",
+          title: ':tada: :page_facing_up: Our extended abstract, Prospective Secondary Mathematics Teachers’ Collective Productive Struggle: Inquiry...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
