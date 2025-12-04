@@ -98,6 +98,12 @@ ninja.data = [{
           section: "News",},{id: "news-tada-page-facing-up-our-extended-abstract-prospective-secondary-mathematics-teachers-collective-productive-struggle-inquiry-oriented-dynamical-systems-and-modeling-as-a-case-example-is-accepted-for-the-special-issue-of-investigations-in-mathematics-learning-on-defining-cultivating-and-sustaining-productive-struggle-in-mathematics-classrooms-full-manuscript-in-preparation",
           title: ':tada: :page_facing_up: Our extended abstract, Prospective Secondary Mathematics Teachers’ Collective Productive Struggle: Inquiry...',
           description: "",
+          section: "News",},{id: "news-tada-page-facing-up-our-paper-session-talk-fostering-a-critical-stance-through-inquiry-transforming-future-teachers-perspectives-in-an-upper-division-mathematics-course-is-accepted-to-aera-2026",
+          title: ':tada: :page_facing_up: Our paper session talk, Fostering a Critical Stance Through Inquiry: Transforming...',
+          description: "",
+          section: "News",},{id: "news-confetti-ball-books-excited-to-share-that-i-passed-my-dissertation-proposal-and-i-am-officially-a-ph-d-candidate-deep-appreciation-to-my-committee-members-for-their-support-and-guidance-and-to-my-msed-community-ucsd-protolab-members-and-friends-for-their-valuable-feedback-during-my-practice-runs",
+          title: ':confetti_ball: :books: Excited to share that I passed my dissertation proposal and I...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
