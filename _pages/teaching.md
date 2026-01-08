@@ -84,7 +84,7 @@ In parallel, I contributed to curriculum development for the <a href="https://fy
 ## :woman_teacher: Teaching Experience
 
 **Teaching Methods in Computer Science**  
-*Fall 2024*, CSE 599, UCSD  
+*Fall 2024 & Fall 2025*, CSE 599, UCSD  
 Mentor TA
 
 ---
@@ -126,7 +126,7 @@ Graduate Teaching Assistant
 ---
 
 **Linear Algebra I**  
-*Fall 2018, Winter 2019, Fall 2019, Winter 2020, Fall 2020, Winter 2021*, MAT223, UofT  
+*Fall 2018, Winter 2019, Fall 2019, Winter 2020, Fall 2020, & Winter 2021*, MAT223, UofT  
 Undergraduate Teaching Assistant
 
 ---
