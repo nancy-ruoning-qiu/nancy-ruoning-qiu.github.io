@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-Outside of my academic work, I enjoy quiet, hands-on creative hobbies. I keep a handwritten journal, combining notes, sketches, and small decorations to reflect on daily life. I also enjoy folding origami and taking photos of landscapes, simple ways to slow down and stay attentive to my surroundings.
+Outside of my academic work, I enjoy hands-on, creative hobbies. I keep a handwritten journal, combining notes and sketches to reflect daily. I also enjoy folding origami and taking photos of landscapes, both help me to slow down and appreciate the nature.
 
 ### :jigsaw: Origami Folding
 
@@ -27,12 +27,12 @@ Here are three of my favorite origami designs. I folded them myself, based on th
     transition: transform 0.3s ease;
   }
   .origami-overlay-container:hover .origami-overlay-image {
-    transform: scale(1.02); /* 轻微放大 */
+    transform: scale(1.02); /* lightly enlarged */
   }
   .origami-overlay-caption {
     position: absolute;
     bottom: 0;
-    background: rgba(0, 139, 139, 0.7); /* mint blue + 半透明 */
+    background: rgba(0, 139, 139, 0.7); /* mint blue + half transparent */
     color: white;
     width: 100%;
     padding: 0.3em 0.5em;
@@ -71,7 +71,7 @@ Here are three of my favorite origami designs. I folded them myself, based on th
 
 ### :camera_flash: Photography
 
-Some moments I captured (via Fujifilm X-M5):
+Some moments I captured:
 
 <!-- Photoswipe CDN -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photoswipe@5.4.4/dist/photoswipe.css" />
