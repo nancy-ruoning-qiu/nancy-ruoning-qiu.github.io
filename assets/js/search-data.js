@@ -104,6 +104,9 @@ ninja.data = [{
           section: "News",},{id: "news-confetti-ball-books-excited-to-share-that-i-passed-my-dissertation-proposal-and-i-am-officially-a-ph-d-candidate-deep-appreciation-to-my-committee-members-for-their-support-and-guidance-and-to-my-msed-community-ucsd-protolab-members-and-friends-for-their-valuable-feedback-during-my-practice-runs",
           title: ':confetti_ball: :books: Excited to share that I passed my dissertation proposal and I...',
           description: "",
+          section: "News",},{id: "news-airplane-attending-rume-2026-in-alexandria-again-excited-to-meet-new-friends-reunite-with-old-friends-and-present-our-work-blush-photo-credit-sunday-stein",
+          title: ':airplane: Attending RUME 2026 in Alexandria again. Excited to meet new friends, reunite...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
