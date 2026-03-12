@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: :page_facing_up: Our paper proposal is accepted! Masked the details as it is under review.
+:tada::page_facing_up: Our paper proposal is accepted! Masked the details as it is under review.
