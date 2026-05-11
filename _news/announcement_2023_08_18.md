@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:books::tornado: Started the joint doctoral program in Mathematics and Science Education at SDSU and UCSD!
-
+:books::tornado: Started the joint doctoral program in [MSED](https://sci.sdsu.edu/crmse/msed/home.html) at SDSU and UCSD!
