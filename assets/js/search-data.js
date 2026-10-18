@@ -104,8 +104,11 @@ ninja.data = [{
           section: "News",},{id: "news-tada-page-facing-up-our-paper-pre-service-secondary-school-teachers-collective-productive-struggle-in-a-university-mathematics-content-course-is-accepted-to-indrum-2026-construction-working-on-revision",
           title: ':tada::page_facing_up: Our paper, Pre-service secondary school teachers’ collective productive struggle in a university...',
           description: "",
-          section: "News",},{id: "news-tada-page-facing-up-our-illustration-of-practice-paper-design-principles-for-connecting-university-and-secondary-mathematics-promoting-a-critical-stance-and-secondary-content-knowledge-in-an-upper-division-mathematics-course-is-accepted-to-the-journal-of-mted",
-          title: ':tada::page_facing_up: Our Illustration of Practice paper, Design principles for connecting university and secondary...',
+          section: "News",},{id: "news-tada-page-facing-up-our-illustration-of-practice-article-connecting-university-and-secondary-mathematics-design-principles-for-developing-prospective-teachers-content-knowledge-and-critical-stance-is-accepted-to-the-journal-of-mathematics-teacher-education-and-development-update-october-14-2026-the-article-is-published-in-vol-28-no-3-2026-special-issue-mathematics-teacher-educators",
+          title: ':tada::page_facing_up: Our Illustration of Practice article, Connecting university and secondary mathematics: Design principles...',
+          description: "",
+          section: "News",},{id: "news-tada-page-facing-up-our-paper-the-impact-of-an-upper-division-inquiry-oriented-content-course-on-prospective-teachers-embracing-a-critical-stance-is-accepted-to-the-international-journal-of-research-in-undergraduate-mathematics-education",
+          title: ':tada::page_facing_up: Our paper, The impact of an upper division inquiry-oriented content course on...',
           description: "",
           section: "News",},{
         id: 'social-email',
