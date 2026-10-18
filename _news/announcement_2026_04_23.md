@@ -5,4 +5,6 @@ inline: true
 related_posts: false
 ---
 
-:tada::page_facing_up: Our Illustration of Practice paper, **Design principles for connecting university and secondary mathematics: Promoting a critical stance and secondary content knowledge in an upper division mathematics course**, is accepted to the *Journal of [MTED](https://mted.merga.net.au/index.php/mted)*!
+:tada::page_facing_up: Our Illustration of Practice article, **Connecting university and secondary mathematics: Design principles for developing prospective teachers' content knowledge and critical stance**, is accepted to the *[Journal of Mathematics Teacher Education and Development](https://mted.merga.net.au/index.php/mted)*!
+
+Update [October 14, 2026]: The article is [published](https://mted.merga.net.au/index.php/mted/article/view/1441) in [Vol. 28 No. 3 (2026): Special Issue: Mathematics Teacher Educators](https://mted.merga.net.au/index.php/mted/issue/view/69)!
