@@ -12,6 +12,8 @@ toc_items:
     url: "#hammer_and_wrench-ta-training--professional-development"
   - title: ":art: Designing a First-Year Program"
     url: "#art-designing-a-first-year-cohort-based-program"
+  - title: ":sparkles: Teaching as a Summer Graduate Teaching Scholar"
+    url: "#sparkles-teaching-as-a-summer-graduate-teaching-scholar" 
   - title: ":woman_teacher: Teaching Experience"
     url: "#woman_teacher-teaching-experience"
   - title: ":memo: Student Evaluations"
@@ -81,7 +83,22 @@ In parallel, I contributed to curriculum development for the <a href="https://fy
   </p>
 
 ---
+## :sparkles: Teaching as a Summer Graduate Teaching Scholar
+
+In Summer 2026, I participated in the <a href="https://undergrad.ucsd.edu/faculty-support/sgts.html" target="_blank">Summer Graduate Teaching Scholars </a> (SGTS) program at UCSD while teaching Foundations of Pre-Calculus as an instructor of record. Through a pedagogical training course, peer observations, and conversations with mentors and fellow instructors, I had valuable opportunities to reflect on my teaching practices and interactions with students.
+
+As I revisited teaching through the lens of my research on undergraduate mathematics classroom communities, I found myself navigating three interconnected identities---as a teacher, learner, and researcher---while thinking about how to create a classroom that is both caring and intellectually stimulating. It also reinforced my appreciation for teaching as a reflective and collaborative process.
+
+I documented my SGTS experience in *[Learning How to Teach, Again](https://drive.google.com/file/d/1lgLgTl0P_oAEUulU8ZVbQDn4I_CwHwYJ/view?usp=sharing)*, reflecting on the classroom community I hoped to build, what I learned from students and colleagues, and how my thinking about empathy and rigor evolved throughout the summer.
+
+---
 ## :woman_teacher: Teaching Experience
+
+**Foundations of Pre-Calculus**  
+*Summer 2026*, MATH 3B, UCSD  
+Associate Instructor
+
+---
 
 **Teaching Methods in Computer Science**  
 *Fall 2024 & Fall 2025*, CSE 599, UCSD  
