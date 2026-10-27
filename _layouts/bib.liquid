@@ -47,32 +47,39 @@
 
   <!-- Entry bib key -->
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
-    <!-- Author(s) -->
-    <div class="author">
-      {% assign formatted_authors = "" %}
-      {% for author in entry.author_array %}
-        {% assign last = author.last | remove: ',' %}
+  <!-- Author(s) -->
+  <div class="author">
+    {% assign formatted_authors = "" %}
 
-        {% assign initials = "" %}
-        {% assign names = author.first | split: " " %}
-        {% for name in names %}
-          {% assign initial = name | slice: 0, 1 %}
-          {% assign initials = initials | append: initial | append: ". " %}
-        {% endfor %}
-        {% assign initials = initials | strip %} 
+    {% for author in entry.author_array %}
+      {% assign last = author.last | remove: ',' %}
 
-        {% assign formatted_author = last | append: ", " | append: initials %}
-
-        {% if forloop.last and forloop.length > 1 %}
-          {% assign formatted_authors = formatted_authors | append: " & " | append: formatted_author %}
-        {% elsif forloop.first %}
-          {% assign formatted_authors = formatted_author %}
-        {% else %}
-          {% assign formatted_authors = formatted_authors | append: ", " | append: formatted_author %}
-        {% endif %}
+      {% assign initials = "" %}
+      {% assign names = author.first | split: " " %}
+      {% for name in names %}
+        {% assign initial = name | slice: 0, 1 %}
+        {% assign initials = initials | append: initial | append: ". " %}
       {% endfor %}
-      {{ formatted_authors }}{% if entry.note %} ({{ entry.note }}){% elsif entry.year %} ({{ entry.year }}){% endif %}
-    </div>
+      {% assign initials = initials | strip %}
+
+      {% assign formatted_author = last | append: ", " | append: initials %}
+
+      <!-- Highlight my name -->
+      {% if site.scholar.last_name contains last %}
+        {% assign formatted_author = formatted_author | prepend: '<strong style="color: var(--global-theme-color);">' | append: '</strong>' %}
+      {% endif %}
+
+      {% if forloop.last and forloop.length > 1 %}
+        {% assign formatted_authors = formatted_authors | append: " & " | append: formatted_author %}
+      {% elsif forloop.first %}
+        {% assign formatted_authors = formatted_author %}
+      {% else %}
+        {% assign formatted_authors = formatted_authors | append: ", " | append: formatted_author %}
+      {% endif %}
+    {% endfor %}
+
+    {{ formatted_authors }}{% if entry.note %} ({{ entry.note }}){% elsif entry.year %} ({{ entry.year }}){% endif %}
+  </div>
 
 
     <!-- Title -->
