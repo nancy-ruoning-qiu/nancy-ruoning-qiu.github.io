@@ -110,6 +110,9 @@ ninja.data = [{
           section: "News",},{id: "news-tada-page-facing-up-our-paper-the-impact-of-an-upper-division-inquiry-oriented-content-course-on-prospective-teachers-embracing-a-critical-stance-is-accepted-to-the-international-journal-of-research-in-undergraduate-mathematics-education",
           title: ':tada::page_facing_up: Our paper, The impact of an upper division inquiry-oriented content course on...',
           description: "",
+          section: "News",},{id: "news-tada-page-facing-up-two-of-our-papers-what-comes-first-inputs-or-outputs-prospective-teachers-output-first-perspective-on-horizontal-function-translations-and-experiencing-the-standards-for-mathematical-practice-prospective-mathematics-teachers-aspirations-for-teaching-have-been-accepted-to-rume-2027",
+          title: ':tada::page_facing_up: Two of our papers, What comes first, inputs or outputs? Prospective teachers’...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
