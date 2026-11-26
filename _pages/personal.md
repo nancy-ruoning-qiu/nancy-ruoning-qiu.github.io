@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-Outside of my academic work, I enjoy hands-on, creative hobbies. I keep a handwritten journal, combining notes and sketches to reflect daily. I also enjoy folding origami and taking photos of landscapes, both help me to slow down and appreciate the nature.
+Outside of my academic work, I enjoy doing hands-on hobbies such as origami folding, journaling, and drawing. I start learning how to watercolor painting lately and taking photos of landscapes whenever I have the chance.
 
 ### :jigsaw: Origami Folding
 
@@ -17,7 +17,7 @@ Here are three of my favorite origami designs. I folded them myself, based on th
   .origami-overlay-container {
     position: relative;
     overflow: hidden;
-    border-radius: 10px;
+    border-radius: 0px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.15);
   }
   .origami-overlay-image {
@@ -71,61 +71,199 @@ Here are three of my favorite origami designs. I folded them myself, based on th
 
 ### :camera_flash: Photography
 
-Some moments I captured:
+In Fall 2026, two of my photographs were selected for *Dream Destinations*, a student photography and digital art exhibition organized by UC San Diego's University Centers and displayed at the Price Center!
 
-<!-- Photoswipe CDN -->
+<!-- PhotoSwipe CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photoswipe@5.4.4/dist/photoswipe.css" />
+
+<style>
+  /* Featured photo gallery */
+  .featured-gallery {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    margin: 1.5em 0 0.5em;
+  }
+
+  .featured-photo {
+    position: relative;
+    display: block;
+    width: 48%;
+    overflow: hidden;
+    border-radius: 0px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    cursor: zoom-in;
+  }
+
+  .featured-photo img {
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: transform 0.3s ease;
+  }
+
+  .featured-photo:hover img {
+    transform: scale(1.02);
+  }
+
+  /* Mint-blue hover caption */
+  .featured-photo-caption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 0.4em 0.5em;
+    background: rgba(0, 139, 139, 0.7);
+    color: white;
+    font-size: 0.75em;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.25s ease;
+    pointer-events: none;
+  }
+
+  .featured-photo:hover .featured-photo-caption,
+  .featured-photo:focus-visible .featured-photo-caption {
+    opacity: 1;
+  }
+
+  /* Regular photography gallery */
+  .gallery-photo {
+    display: block;
+    width: 80%;
+    max-width: 900px;
+    margin: 0 auto 1.5em;
+    overflow: hidden;
+    border-radius: 0px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    cursor: zoom-in;
+  }
+
+  .gallery-photo img {
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: transform 0.3s ease;
+  }
+
+  .gallery-photo:hover img {
+    transform: scale(1.02);
+  }
+
+  /* Mobile layout */
+  @media (max-width: 600px) {
+    .featured-gallery {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .featured-photo,
+    .gallery-photo {
+      width: 100%;
+    }
+  }
+</style>
+
+<!-- Featured photographs -->
+<div id="featured-gallery" class="featured-gallery">
+
+  <!-- Scripps Pier -->
+  <a class="featured-photo"
+     href="/assets/img/personal/NancyQiu_Scripps_Pier.jpeg"
+     data-pswp-width="6000"
+     data-pswp-height="4000">
+
+    <img src="/assets/img/personal/Scripps_Pier_PC_Display.jpg"
+         alt="Scripps Pier: What one saw after Scrippshenge."
+         loading="lazy">
+
+    <span class="featured-photo-caption">
+      click to view the original photo
+    </span>
+  </a>
+
+  <!-- Xmas Town -->
+  <a class="featured-photo"
+     href="/assets/img/personal/NancyQiu_Xmas_Town.jpeg"
+     data-pswp-width="6000"
+     data-pswp-height="4000">
+
+    <img src="/assets/img/personal/Xmas_Town_PC_Display.jpg"
+         alt="Xmas Town: It is the holiday season again."
+         loading="lazy">
+
+    <span class="featured-photo-caption">
+      click to view the original photo
+    </span>
+  </a>
+
+</div>
+
+<p style="text-align: center; font-size: 0.85em; color: var(--global-text-color-light);">
+  Dream Destinations · UC San Diego Price Center · Fall 2026
+</p>
+
+<!-- Other photographs -->
+<p>More moments I captured:</p>
+
+<div id="gallery" style="margin: 2em 0;">
+
+  <a class="gallery-photo"
+     href="/assets/img/personal/SeattleDSCF0663.jpg"
+     data-pswp-width="2048"
+     data-pswp-height="1365">
+    <img src="/assets/img/personal/SeattleDSCF0663.jpg"
+         alt="Seattle landscape"
+         loading="lazy">
+  </a>
+
+  <a class="gallery-photo"
+     href="/assets/img/personal/DSCF0686.jpg"
+     data-pswp-width="2048"
+     data-pswp-height="1365">
+    <img src="/assets/img/personal/DSCF0686.jpg"
+         alt="Landscape photograph"
+         loading="lazy">
+  </a>
+
+  <a class="gallery-photo"
+     href="/assets/img/personal/DSCF0172.jpg"
+     data-pswp-width="2048"
+     data-pswp-height="1365">
+    <img src="/assets/img/personal/DSCF0172.jpg"
+         alt="Landscape photograph"
+         loading="lazy">
+  </a>
+
+  <a class="gallery-photo"
+     href="/assets/img/personal/DSCF0181.jpg"
+     data-pswp-width="2048"
+     data-pswp-height="1365">
+    <img src="/assets/img/personal/DSCF0181.jpg"
+         alt="Landscape photograph"
+         loading="lazy">
+  </a>
+
+  <a class="gallery-photo"
+     href="/assets/img/personal/DSCF0188.jpg"
+     data-pswp-width="2048"
+     data-pswp-height="1365">
+    <img src="/assets/img/personal/DSCF0188.jpg"
+         alt="Landscape photograph"
+         loading="lazy">
+  </a>
+
+</div>
+
+<!-- PhotoSwipe JavaScript -->
 <script type="module">
   import PhotoSwipeLightbox from 'https://cdn.jsdelivr.net/npm/photoswipe@5.4.4/dist/photoswipe-lightbox.esm.min.js';
+
   const lightbox = new PhotoSwipeLightbox({
-    gallery: '#gallery',
+    gallery: '#featured-gallery, #gallery',
     children: 'a',
     pswpModule: () => import('https://cdn.jsdelivr.net/npm/photoswipe@5.4.4/dist/photoswipe.esm.min.js')
   });
+
   lightbox.init();
 </script>
-
-<!-- Gallery container -->
-<div id="gallery" style="margin: 2em 0;">
-
-  <p style="text-align: center;">
-    <a href="/assets/img/personal/SeattleDSCF0663.jpg" data-pswp-width="2048" data-pswp-height="1365">
-      <img src="/assets/img/personal/SeattleDSCF0663.jpg"
-           alt="SeattleDSCF0663"
-           style="width: 80%; max-width: 900px; display: inline-block; border-radius: 0; box-shadow: none;">
-    </a>
-  </p>
-
-  <p style="text-align: center;">
-    <a href="/assets/img/personal/DSCF0686.jpg" data-pswp-width="2048" data-pswp-height="1365">
-      <img src="/assets/img/personal/DSCF0686.jpg"
-           alt="DSCF0686"
-           style="width: 80%; max-width: 900px; display: inline-block; border-radius: 0; box-shadow: none;">
-    </a>
-  </p>
-
-  <p style="text-align: center;">
-    <a href="/assets/img/personal/DSCF0172.jpg" data-pswp-width="2048" data-pswp-height="1365">
-      <img src="/assets/img/personal/DSCF0172.jpg"
-           alt="DSCF0172"
-           style="width: 80%; max-width: 900px; display: inline-block; border-radius: 0; box-shadow: none;">
-    </a>
-  </p>
-
-  <p style="text-align: center;">
-    <a href="/assets/img/personal/DSCF0181.jpg" data-pswp-width="2048" data-pswp-height="1365">
-      <img src="/assets/img/personal/DSCF0181.jpg"
-           alt="DSCF0181"
-           style="width: 80%; max-width: 900px; display: inline-block; border-radius: 0; box-shadow: none;">
-    </a>
-  </p>
-
-  <p style="text-align: center;">
-    <a href="/assets/img/personal/DSCF0188.jpg" data-pswp-width="2048" data-pswp-height="1365">
-      <img src="/assets/img/personal/DSCF0188.jpg"
-           alt="DSCF0188"
-           style="width: 80%; max-width: 900px; display: inline-block; border-radius: 0; box-shadow: none;">
-    </a>
-  </p>
-
-</div>
